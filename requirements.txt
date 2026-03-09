@@ -6,3 +6,4 @@ spacy
 matplotlib
 streamlit
 joblib
+altair
